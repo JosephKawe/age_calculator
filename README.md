@@ -1,32 +1,31 @@
 # Age Calculator App
 
-Bem-vindo ao Age Calculator App, a ferramenta perfeita para calcular a idade de forma rápida e simples! Este aplicativo, desenvolvido com Vue.js e Tailwind CSS, oferece uma interface intuitiva e moderna para calcular idades de maneira eficiente.
+Bem-vindo ao Age Calculator App, a ferramenta simples e eficaz para calcular idades de forma rápida e fácil! Desenvolvido utilizando Vue.js, TypeScript e Tailwind CSS, este aplicativo oferece uma experiência intuitiva e moderna.
 
 ## Tecnologias Utilizadas
 
-- **Vue.js:** Um framework progressivo para construção de interfaces de usuário.
-- **Tailwind CSS:** Um framework de estilo utilitário que proporciona designs modernos e responsivos.
+- **Vue.js:** O framework JavaScript progressivo para construção de interfaces de usuário.
+- **TypeScript:** Uma linguagem superset do JavaScript que adiciona tipagem estática.
+- **Tailwind CSS:** Um framework de estilo utilitário para criar designs responsivos.
 
-## Recursos Destacados
+## Funcionalidades Destacadas
 
-- **Cálculo Instantâneo:** Obtenha a idade atual de forma instantânea inserindo apenas a data de nascimento.
+- **Cálculo de Idade Instantâneo:** Fornece a idade com base na data de nascimento inserida.
+  
+- **Interface Limpa e Moderna:** Design amigável e intuitivo para uma experiência do usuário agradável.
 
-- **Modo Escuro Persistente:** Escolha entre o modo claro e escuro para uma experiência visual personalizada.
-
-- **Interface Intuitiva:** Uma interface limpa e fácil de usar, projetada para uma experiência do usuário sem complicações.
-
-- **Tailwind CSS:** Desfrute de um design elegante e responsivo, criado com as classes poderosas do Tailwind CSS.
+- **Vue.js e TypeScript:** Combina o poder do Vue.js com a segurança e clareza do TypeScript.
 
 ## Como Iniciar
 
 1. **Clone o Repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/age_calculator.git
+    git clone https://github.com/seu-usuario/age-calculator.git
     ```
 
 2. **Instale as Dependências:**
     ```bash
-    cd age_calculator
+    cd age-calculator
     npm install
     ```
 
@@ -36,14 +35,14 @@ Bem-vindo ao Age Calculator App, a ferramenta perfeita para calcular a idade de 
     ```
 
 4. **Acesse o Age Calculator:**
-    Abra o navegador e vá para `http://localhost:8080` para começar a calcular idades!
+    Abra o navegador e acesse `http://localhost:8080` para começar a calcular idades!
 
 ## Contribuições São Bem-Vindas
 
-Aceitamos contribuições para melhorar o Age Calculator App! Sinta-se à vontade para abrir issues ou enviar pull requests para aprimorar a funcionalidade ou o design.
+Aceitamos contribuições! Sinta-se à vontade para sugerir melhorias, relatar problemas ou enviar pull requests para tornar o Age Calculator ainda mais útil.
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE). Use e modifique conforme suas necessidades.
+Este projeto é licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para utilizar e adaptar conforme necessário.
 
-**Calcule idades de maneira fácil e eficiente com o Age Calculator App!**
+**Calcule idades facilmente com o Age Calculator App!**
