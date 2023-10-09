@@ -1,46 +1,49 @@
-# age_calculator
+# Age Calculator App
 
-This template should help get you started developing with Vue 3 in Vite.
+Bem-vindo ao Age Calculator App, a ferramenta perfeita para calcular a idade de forma rápida e simples! Este aplicativo, desenvolvido com Vue.js e Tailwind CSS, oferece uma interface intuitiva e moderna para calcular idades de maneira eficiente.
 
-## Recommended IDE Setup
+## Tecnologias Utilizadas
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **Vue.js:** Um framework progressivo para construção de interfaces de usuário.
+- **Tailwind CSS:** Um framework de estilo utilitário que proporciona designs modernos e responsivos.
 
-## Type Support for `.vue` Imports in TS
+## Recursos Destacados
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin) to make the TypeScript language service aware of `.vue` types.
+- **Cálculo Instantâneo:** Obtenha a idade atual de forma instantânea inserindo apenas a data de nascimento.
 
-If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has also implemented a [Take Over Mode](https://github.com/johnsoncodehk/volar/discussions/471#discussioncomment-1361669) that is more performant. You can enable it by the following steps:
+- **Modo Escuro Persistente:** Escolha entre o modo claro e escuro para uma experiência visual personalizada. A escolha é salva localmente para manter suas preferências.
 
-1. Disable the built-in TypeScript Extension
-    1) Run `Extensions: Show Built-in Extensions` from VSCode's command palette
-    2) Find `TypeScript and JavaScript Language Features`, right click and select `Disable (Workspace)`
-2. Reload the VSCode window by running `Developer: Reload Window` from the command palette.
+- **Interface Intuitiva:** Uma interface limpa e fácil de usar, projetada para uma experiência do usuário sem complicações.
 
-## Customize configuration
+- **Tailwind CSS:** Desfrute de um design elegante e responsivo, criado com as classes poderosas do Tailwind CSS.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Como Iniciar
 
-## Project Setup
+1. **Clone o Repositório:**
+    ```bash
+    git clone https://github.com/seu-usuario/age_calculator.git
+    ```
 
-```sh
-npm install
-```
+2. **Instale as Dependências:**
+    ```bash
+    cd age_calculator
+    npm install
+    ```
 
-### Compile and Hot-Reload for Development
+3. **Inicie o Aplicativo:**
+    ```bash
+    npm run serve
+    ```
 
-```sh
-npm run dev
-```
+4. **Acesse o Age Calculator:**
+    Abra o navegador e vá para `http://localhost:8080` para começar a calcular idades!
 
-### Type-Check, Compile and Minify for Production
+## Contribuições São Bem-Vindas
 
-```sh
-npm run build
-```
+Aceitamos contribuições para melhorar o Age Calculator App! Sinta-se à vontade para abrir issues ou enviar pull requests para aprimorar a funcionalidade ou o design.
 
-### Lint with [ESLint](https://eslint.org/)
+## Licença
 
-```sh
-npm run lint
-```
+Este projeto é licenciado sob a [Licença MIT](LICENSE). Use e modifique conforme suas necessidades.
+
+**Calcule idades de maneira fácil e eficiente com o Age Calculator App!**
