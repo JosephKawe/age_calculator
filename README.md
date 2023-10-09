@@ -11,7 +11,7 @@ Bem-vindo ao Age Calculator App, a ferramenta perfeita para calcular a idade de 
 
 - **Cálculo Instantâneo:** Obtenha a idade atual de forma instantânea inserindo apenas a data de nascimento.
 
-- **Modo Escuro Persistente:** Escolha entre o modo claro e escuro para uma experiência visual personalizada. A escolha é salva localmente para manter suas preferências.
+- **Modo Escuro Persistente:** Escolha entre o modo claro e escuro para uma experiência visual personalizada.
 
 - **Interface Intuitiva:** Uma interface limpa e fácil de usar, projetada para uma experiência do usuário sem complicações.
 
